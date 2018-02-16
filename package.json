@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/alicebnelson/eat-da-pizza/issues"
   },
-  "homepage": "https://github.com/alicebnelson/eat-da-pizza#readme"
+  "homepage": "https://github.com/alicebnelson/eat-da-pizza#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
 }
